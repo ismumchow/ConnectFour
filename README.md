@@ -9,4 +9,4 @@ QuerySelector
 QuerySelectorAll
 SetTimeout 
 
-you can demo the page at: 
+
