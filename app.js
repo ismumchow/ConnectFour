@@ -151,6 +151,6 @@ document.addEventListener('DOMContentLoaded', () => {
     squares.forEach(square => {
         square.addEventListener('click',checkBoard)
     });
-
+    //sample branch test
 })
 
